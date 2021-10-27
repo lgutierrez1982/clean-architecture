@@ -1,0 +1,5 @@
+challenge_api:
+  base_url: "https://rickandmortyapi.com/api/"
+  endpoints:
+    character: "character/{character_id}"
+    location: "location/{location_id}"
