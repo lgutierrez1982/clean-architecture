@@ -1,5 +1,9 @@
 # clean-architecture example
 
+
+Clean Architecture de Google
+![Preview](https://miro.medium.com/max/1400/1*BxfevBnKvv9EIY3YposofA.png)
+
 Rick And Morty API</br>
 
 Usando la API de Rick And Morty</br>
